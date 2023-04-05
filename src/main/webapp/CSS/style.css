@@ -1,0 +1,116 @@
+.dv{
+	text-align: center;
+	margin-top: 4vw;
+}
+.lah{
+	font-size:2.3vw;
+	font-family: elephant;
+}
+.lahu{
+	font-size:2vw;
+	font-family: elephant;
+	text-decoration: underline;
+}
+.hdu{
+	font-size:1.8vw;
+	font-family: luciada calligraphy;
+	color:white;
+	padding:.1vw 1vw;
+	background-color: green;
+}
+.la{
+	font-size:1.7vw;
+}
+.lau{
+	font-size:1.7vw;
+	text-decoration: underline;
+}
+.las{
+	font-size:1.5vw;
+}
+span{
+	color:red;
+}
+.tab{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2vw;
+	background-color: cyan;	
+	border-radius: .5vw;
+}
+.tdp{
+	padding:2vw 1vw;
+}
+.btr{
+	cursor: pointer;
+	color:white;
+	background-color:blue;
+	margin-right:1vw;
+	padding:.5vw 1.2vw;
+	border-radius: .4vw;
+	font-size:1.4vw;
+	border:none;
+}
+.dvv{
+	text-align: center;
+	margin-top:1vw;
+}
+.tb{
+	font-size:1.4vw;
+	width:100%;
+	border-radius: .4vw;
+}
+.ta{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:2vw;
+	width:auto;
+	font-size:1.7vw;
+	border-radius:.5vw;
+	background-color:teal;
+	color:white;
+}
+.pd{
+	padding:1vw 2vw;
+}
+.lig{
+	 margin-right:.5vw;
+	 background-color:red;
+}
+anu{
+	text-decoration: underline;
+}
+.cdta{
+	 width:100%;
+	 font-size:20px;
+	 color:white;
+	 font-weight: bold;
+}
+.cdbt{
+	padding:.2vw 2vw;
+	border-radius: .5vw;
+	color:white;
+	background-color:red;
+	border:none;
+	cursor:hand;
+}
+.scrollit {
+    overflow:scroll;
+    max-height:53vh;
+}
+.scrollit thead th {
+      position: sticky;
+      background:teal;
+      color:white;
+      top: 0;
+}
+.insta{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:2vw;
+	width:auto;
+	font-size:1.7vw;
+	border-radius:.5vw;
+	background-color:teal;
+	color:white;
+}
